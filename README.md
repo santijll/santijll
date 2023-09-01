@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+- 👨🏻‍🦱 You can call me Santi!
+- 🌱 I’m currently learning React
+
 <!--
 **santijll/santijll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
